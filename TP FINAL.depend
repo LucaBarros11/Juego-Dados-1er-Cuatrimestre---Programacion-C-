@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1719523070 source:d:\utn\utn\programacion\juego tp final\prueba menues divididos\entrega tp\tp final\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"modosjuego.h"
+
+1719530830 d:\utn\utn\programacion\juego tp final\prueba menues divididos\entrega tp\tp final\funciones.h
+	<iostream>
+
+1719532084 d:\utn\utn\programacion\juego tp final\prueba menues divididos\entrega tp\tp final\modosjuego.h
+
